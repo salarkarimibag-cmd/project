@@ -1,13 +1,16 @@
-# OS
-.DS_Store
-Thumbs.db
+# # OS
+# .DS_Store
+# Thumbs.db
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# Editor
-.vscode/
-.idea/
+# # Editor
+# .vscode/
+# .idea/
 
-# Env (اگر بعداً اضافه شد)
-.env
+# # Env (اگر بعداً اضافه شد)
+# .env
+
+node_modules/
+*.txt
