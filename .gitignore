@@ -13,5 +13,3 @@
 # .env
 
 node_modules/
-*.txt
-!a.txt
